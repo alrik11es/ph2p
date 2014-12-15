@@ -22,8 +22,8 @@ Finder -> Client : Friendly peers
 @enduml
 ```
 
-##Terms
-This specification MUST follow the use of this terms.
+##FAQ
+The specification terms:
 - Weight
 - Peer
 - Pool
