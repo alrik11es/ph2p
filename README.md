@@ -8,8 +8,14 @@ In the PHP would be useful to have a protocol or a library that allows the dev t
 
 The next example is just an idea "not implemented yet"
 ```php
-$cloud = new \ph2p\Client('cloud_id');
-$cloud->connect(); // This will try to find some peers to connect to
+$server = new \ph2p\Server();
+$server->setConfig(['cloud'=>'cloud_id']);
+$server->run();
+``` 
+
+```php
+$cloud = new \ph2p\Client();
+$cloud->connect($ip, 'cloud_id'); // This will connect to the Server in order to access the info
 $cloud->store($key, $value [,$secret]);// The $secret value is like a password that makes your $key unique and editable only by whom has this $secret pass
 $cloud->get($key [,$secret]);
 $cloud->search($word);
