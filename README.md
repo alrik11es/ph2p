@@ -4,7 +4,7 @@ ph2p
 Experimental "thing" for PHP application clouds
 
 ##The idea
-In the PHP would be useful to have a protocol or a library that allows the dev to create a distributed cloud. This is a big task but we can do it.
+In the PHP world would be useful to have a protocol or a library that allows the dev to create a distributed cloud. This is a big task but we can do it.
 
 The next example is just an idea "not implemented yet"
 ```php
