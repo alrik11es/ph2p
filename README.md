@@ -20,5 +20,4 @@ $cloud->store($key, $value [,$secret]);// The $secret value is like a password t
 $cloud->get($key [,$secret]);
 $cloud->search($word);
 $cloud->remove($key[,$secret]);
-$cloud->edit($key, $value [,$secret]);
 ```
