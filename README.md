@@ -1,6 +1,8 @@
 ph2p
 ====
 
+[![Join the chat at https://gitter.im/alrik11es/ph2p](https://badges.gitter.im/alrik11es/ph2p.svg)](https://gitter.im/alrik11es/ph2p?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Experimental "thing" for PHP application clouds
 
 ##The idea
