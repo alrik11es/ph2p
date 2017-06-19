@@ -1,7 +1,9 @@
 ph2p
 ====
 
-Experimental "thing" for PHP P2P application clouds
+[![Join the chat at https://gitter.im/alrik11es/ph2p](https://badges.gitter.im/alrik11es/ph2p.svg)](https://gitter.im/alrik11es/ph2p?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+Experimental "thing" for PHP application clouds
 
 ##The idea
 In the PHP world would be useful to have a protocol or a library that allows the dev to create a distributed cloud. This is a big task but we can do it.
