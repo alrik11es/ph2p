@@ -10,6 +10,8 @@ build
 *.swp
 *.out
 
+cache/ 
+
 ##
 # composer 
 ##
