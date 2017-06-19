@@ -1,5 +1,5 @@
 <?php
-namespace ph2p;
+namespace Ph2p\Core;
 
 class Finder{
 

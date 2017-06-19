@@ -1,7 +1,7 @@
 ph2p
 ====
 
-Experimental "thing" for PHP application clouds
+Experimental "thing" for PHP P2P application clouds
 
 ##The idea
 In the PHP world would be useful to have a protocol or a library that allows the dev to create a distributed cloud. This is a big task but we can do it.
@@ -21,3 +21,11 @@ $cloud->get($key [,$secret]);
 $cloud->search($word);
 $cloud->remove($key[,$secret]);
 ```
+
+## First steps
+A terminal gui will be created to manage the different parts of the system. In the background of this gui will be a server runing that will be in charge of distributing all computation/data to the network. 
+
+## References
+
+[An Efficient Nearest Neighbor Algorithm for P2P
+ Settings](http://www.cs.umd.edu/~hjs/pubs/dgo05.pdf) by Egemen Tanin, Deepa Nayar, Hanan Samet 
