@@ -1,4 +1,4 @@
-#Protocol SPECS
+# Protocol SPECS
 Any implementation MUST follow this specs.
 
 ## P2P Discover

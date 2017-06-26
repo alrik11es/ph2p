@@ -1,7 +1,8 @@
 <?php
 namespace Ph2p\Core;
 
-class Node {
+class Node
+{
 
     public $hash;
     public $ip;
