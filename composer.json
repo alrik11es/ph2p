@@ -8,6 +8,7 @@
         "symfony/console": "2.6.1",
         "gregwar/cache": "1.0.*",
         "hoa/socket": "~1.0",
-        "pimple/pimple": "^3.0"
+        "pimple/pimple": "^3.0",
+        "pleonasm/merkle-tree": "*"
     }
 }
